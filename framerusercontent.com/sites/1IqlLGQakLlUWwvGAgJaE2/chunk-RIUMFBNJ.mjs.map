@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../var/task/ssg-sandbox_shims.js"],
+  "sourcesContent": ["export const navigator = typeof document !== \"undefined\" ? globalThis.navigator : undefined\nexport const window = typeof document !== \"undefined\" ? globalThis.window : undefined\nexport const global = typeof document === \"undefined\" ? {} : undefined\nif (typeof document === \"undefined\") {\n    const originalObjectToString = Object.prototype.toString\n    Object.prototype.toString = function (...args) {\n        return this === global ? \"[object global]\" : originalObjectToString.call(this, ...args)\n    }\n}\n"],
+  "mappings": "0FAAO,IAAMA,EAAY,OAAO,SAAa,IAAc,WAAW,UAAY,OACrEC,EAAS,OAAO,SAAa,IAAc,WAAW,OAAS,OAC/DC,EAAS,OAAO,SAAa,IAAc,CAAC,EAAI,OAC7D,GAAI,OAAO,SAAa,IAAa,CACjC,IAAMC,EAAyB,OAAO,UAAU,SAChD,OAAO,UAAU,SAAW,YAAaC,EAAM,CAC3C,OAAO,OAASF,EAAS,kBAAoBC,EAAuB,KAAK,KAAM,GAAGC,CAAI,CAC1F",
+  "names": ["navigator", "window", "global", "originalObjectToString", "args"]
+}
