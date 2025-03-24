@@ -32946,7 +32946,7 @@ var f0 = Q(so),
                                                         "--framer-text-alignment": "center",
                                                         "--framer-text-color": "rgb(255, 255, 255)"
                                                     },
-                                                    children: "Welcome to InfinityFX."
+                                                    children: "Welcome to vaultFX."
                                                 })
                                             })
                                         },
@@ -32960,7 +32960,7 @@ var f0 = Q(so),
                                                         "--framer-text-alignment": "center",
                                                         "--framer-text-color": "rgb(255, 255, 255)"
                                                     },
-                                                    children: "Welcome to InfinityFX."
+                                                    children: "Welcome to vaultFX."
                                                 })
                                             }),
                                             effect: void 0
@@ -32977,7 +32977,7 @@ var f0 = Q(so),
                                                     "--framer-text-alignment": "center",
                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                 },
-                                                children: "Welcome to InfinityFX."
+                                                children: "Welcome to vaultFX."
                                             })
                                         }),
                                         className: "framer-28nzzt",
@@ -33182,7 +33182,7 @@ var f0 = Q(so),
                                             styles: {
                                                 perspective: 400
                                             },
-                                            text: "At InfinityFX, we provide a trusted, transparent, and professional forex trading service where investors entrust us with their funds, and we trade on their behalf.",
+                                            text: "We focus on responsible, risk-aware trading, using carefully designed strategies to grow your capital while safeguarding it from excessive exposure. Forex trading should be built on trust, transparency, and shared success: we earn only when you do—our profits come as a percentage of your gains, and we also share in any losses you experience.",
                                             transition: {
                                                 damping: 60,
                                                 delay: 0,
@@ -33261,7 +33261,7 @@ var f0 = Q(so),
                                                             "--framer-line-height": "140%",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: ["Box1_TitleLn1", r("br", {}), "Box1_TitleLn2"]
+                                                        children: ["Partnership", r("br", {}), "Driven"]
                                                     })
                                                 })
                                             },
@@ -33275,7 +33275,7 @@ var f0 = Q(so),
                                                             "--framer-line-height": "140%",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: ["Box1_TitleLn1", r("br", {}), "Box1_TitleLn2"]
+                                                        children: ["Partnership", r("br", {}), "Driven"]
                                                     })
                                                 })
                                             }
@@ -33291,7 +33291,7 @@ var f0 = Q(so),
                                                         "--framer-line-height": "140%",
                                                         "--framer-text-color": "rgb(255, 255, 255)"
                                                     },
-                                                    children: ["Box1_TitleLn1", r("br", {}), "Box1_TitleLn2"]
+                                                    children: ["Partnership", r("br", {}), "Driven"]
                                                 })
                                             }),
                                             className: "framer-70hbeb",
@@ -33512,18 +33512,13 @@ var f0 = Q(so),
                                                                 "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box1_BodyWhite"
+                                                            children: "We believe in a partnership-driven approach "
                                                         }), r("span", {
                                                             style: {
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
                                                             children: ", "
-                                                        }), "Box1_BodyGrey1 ", r("span", {
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-c79e6b48-4dfb-47cb-8baa-d884a194f319, rgb(0, 200, 255))"
-                                                            },
-                                                            children: "returns"
-                                                        }), " the risk-free rate to holders."]
+                                                        }), "where your success is our success."]
                                                     })
                                                 })
                                             },
@@ -33543,18 +33538,13 @@ var f0 = Q(so),
                                                                 "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box1_BodyWhite"
+                                                            children: "We believe in a partnership-driven approach "
                                                         }), r("span", {
                                                             style: {
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
                                                             children: ", "
-                                                        }), "Box1_BodyGrey1 ", r("span", {
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-c79e6b48-4dfb-47cb-8baa-d884a194f319, rgb(0, 200, 255))"
-                                                            },
-                                                            children: "returns"
-                                                        }), " the risk-free rate to holders."]
+                                                        }), "where your success is our success."]
                                                     })
                                                 })
                                             }
@@ -33575,18 +33565,13 @@ var f0 = Q(so),
                                                             "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Box1_BodyWhite"
+                                                        children: "We believe in a partnership-driven approach"
                                                     }), r("span", {
                                                         style: {
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
                                                         children: ", "
-                                                    }), "Box1_BodyGrey1 ", r("span", {
-                                                        style: {
-                                                            "--framer-text-color": "var(--token-c79e6b48-4dfb-47cb-8baa-d884a194f319, rgb(0, 200, 255))"
-                                                        },
-                                                        children: "returns"
-                                                    }), " the risk-free rate to holders."]
+                                                    }), "where your success is our success. "]
                                                 })
                                             }),
                                             className: "framer-h0qu5y",
@@ -33647,7 +33632,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "140%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box2_TitleLn1"
+                                                            children: "Radical Transparency "
                                                         }), r("p", {
                                                             style: {
                                                                 "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
@@ -33656,7 +33641,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "140%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box2_TitleLn2"
+                                                            children: "& Real-Time Insights"
                                                         })]
                                                     })
                                                 },
@@ -33670,7 +33655,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "140%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box2_TitleLn1"
+                                                            children: "Radical Transparency "
                                                         }), r("p", {
                                                             style: {
                                                                 "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
@@ -33679,7 +33664,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "140%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box2_TitleLn2"
+                                                            children: "& Real-Time Insights"
                                                         })]
                                                     })
                                                 }
@@ -33695,7 +33680,7 @@ var f0 = Q(so),
                                                             "--framer-line-height": "140%",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Box2_TitleLn1"
+                                                        children: "Radical Transparency "
                                                     }), r("p", {
                                                         style: {
                                                             "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
@@ -33704,7 +33689,7 @@ var f0 = Q(so),
                                                             "--framer-line-height": "140%",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Box2_TitleLn2"
+                                                        children: "& Real-Time Insights"
                                                     })]
                                                 }),
                                                 className: "framer-1rnmj37",
@@ -33925,8 +33910,8 @@ var f0 = Q(so),
                                                                     "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                                 },
-                                                                children: "Allows interoperability "
-                                                            }), "between permissioned protocols, building a permissioned DeFi ecosystem."]
+                                                                children: "We operate with radical transparency, "
+                                                            }), "providing real-time insights on your investment."]
                                                         })
                                                     })
                                                 },
@@ -33946,8 +33931,8 @@ var f0 = Q(so),
                                                                     "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                                 },
-                                                                children: "Allows interoperability "
-                                                            }), "between permissioned protocols, building a permissioned DeFi ecosystem."]
+                                                                children: "We operate with radical transparency, "
+                                                            }), "providing real-time insights on your investment."]
                                                         })
                                                     })
                                                 }
@@ -33968,8 +33953,8 @@ var f0 = Q(so),
                                                                 "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Allows interoperability "
-                                                        }), "between permissioned protocols, building a permissioned DeFi ecosystem."]
+                                                            children: "We operate with radical transparency, "
+                                                        }), "providing real-time insights on your investment."]
                                                     })
                                                 }),
                                                 className: "framer-1sendm1",
@@ -34031,7 +34016,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "140%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box3_TitleLn1"
+                                                            children: "Secure Transactions "
                                                         }), r("p", {
                                                             style: {
                                                                 "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
@@ -34040,7 +34025,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "140%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box3_TitleLn2"
+                                                            children: "& Flexible Withdrawals"
                                                         })]
                                                     })
                                                 },
@@ -34054,7 +34039,7 @@ var f0 = Q(so),
                                                                 "--framer-line-height": "130%",
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Box3_TitleLn1 Box3_TitleLn2"
+                                                            children: "Secure Transactions & Flexible Withdrawals"
                                                         })
                                                     })
                                                 }
@@ -34070,7 +34055,7 @@ var f0 = Q(so),
                                                             "--framer-line-height": "140%",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Box3_TitleLn1"
+                                                        children: "Secure Transactions "
                                                     }), r("p", {
                                                         style: {
                                                             "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
@@ -34079,7 +34064,7 @@ var f0 = Q(so),
                                                             "--framer-line-height": "140%",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Box3_TitleLn2"
+                                                        children: "& Flexible Withdrawals"
                                                     })]
                                                 }),
                                                 className: "framer-1y7ok3c",
@@ -34299,8 +34284,8 @@ var f0 = Q(so),
                                                                     "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                                 },
-                                                                children: "Experience full account abstraction with Ozean\u2019s native custodian wallet, "
-                                                            }), "which conceals all blockchain complexities with a user-friendly Web2 interface."]
+                                                                children: "We ensure secure transactions "
+                                                            }), "and flexible withdrawals for easy access to your funds."]
                                                         })
                                                     })
                                                 },
@@ -34320,8 +34305,8 @@ var f0 = Q(so),
                                                                     "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                                 },
-                                                                children: "Experience full account abstraction with Ozean\u2019s native custodian wallet, "
-                                                            }), "which conceals all blockchain complexities with a user-friendly Web2 interface."]
+                                                                children: "We ensure secure transactions "
+                                                            }), "and flexible withdrawals for easy access to your funds."]
                                                         })
                                                     })
                                                 }
@@ -34342,8 +34327,8 @@ var f0 = Q(so),
                                                                 "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
                                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                                             },
-                                                            children: "Experience full account abstraction with Ozean\u2019s native custodian wallet, "
-                                                        }), "which conceals all blockchain complexities with a user-friendly Web2 interface."]
+                                                            children: "We ensure secure transactions "
+                                                        }), "and flexible withdrawals for easy access to your funds."]
                                                     })
                                                 }),
                                                 className: "framer-mrcie5",
@@ -34514,7 +34499,7 @@ var f0 = Q(so),
                                             styles: {
                                                 perspective: 400
                                             },
-                                            text: "Video1_Text1 ",
+                                            text: "We Win When You Win—And Lose When You Lose. Our profits come from your gains, and we share in your losses—so we’re truly in this together.",
                                             transition: {
                                                 damping: 60,
                                                 delay: 0,
@@ -34619,7 +34604,7 @@ var f0 = Q(so),
                                             styles: {
                                                 perspective: 400
                                             },
-                                            text: "Video1_Text2 ",
+                                            text: "No Hype, No Gimmicks—Just Smart Trading. We don’t sell dreams, we execute strategies designed for steady, responsible growth.",
                                             transition: {
                                                 damping: 60,
                                                 delay: 0,
@@ -34721,7 +34706,7 @@ var f0 = Q(so),
                                             styles: {
                                                 perspective: 400
                                             },
-                                            text: "Video1_Text3",
+                                            text: "No Hidden Fees, No Fine Print—Just Radical Transparency. You’ll always know exactly where your money is, how it’s performing, and what we’re doing with it.",
                                             transition: {
                                                 damping: 60,
                                                 delay: 0,
@@ -36288,431 +36273,6 @@ var f0 = Q(so),
                             })]
                         })]
                     }), g("div", {
-                        className: "framer-1dkgbr9 noshow",
-                        "data-framer-name": "PARTNERS",
-                        id: Cr,
-                        ref: oe,
-                        children: [r("div", {
-                            className: "framer-pyhdcu",
-                            "data-framer-name": "Txt",
-                            children: g("div", {
-                                className: "framer-nerbuq",
-                                children: [r(_, {
-                                    children: r(J, {
-                                        className: "framer-sm5mfi-container",
-                                        isAuthoredByUser: !0,
-                                        isModuleExternal: !0,
-                                        nodeId: "nIDR3Degq",
-                                        scopeId: "xJq_mmwcR",
-                                        children: r(E, {
-                                            breakpoint: y,
-                                            overrides: {
-                                                exZBBm80x: {
-                                                    font: {
-                                                        font: "Safiro Medium",
-                                                        fontSize: 32,
-                                                        fontWeight: 400,
-                                                        letterSpacing: 0,
-                                                        lineHeight: 1.3,
-                                                        lineHeightPixels: 40,
-                                                        lineHeightType: !1,
-                                                        textAlign: "left"
-                                                    }
-                                                },
-                                                qhnGNP3iG: {
-                                                    font: {
-                                                        font: "Safiro Medium",
-                                                        fontSize: 24,
-                                                        fontWeight: 400,
-                                                        letterSpacing: 0,
-                                                        lineHeight: 1.3,
-                                                        lineHeightPixels: 32,
-                                                        lineHeightType: !1,
-                                                        textAlign: "left"
-                                                    }
-                                                }
-                                            },
-                                            children: r(hr, {
-                                                color: "rgb(0, 0, 0)",
-                                                direction: "in",
-                                                effectInOptions: {
-                                                    opacity: 0,
-                                                    rotate: 0,
-                                                    rotateX: 0,
-                                                    rotateY: 0,
-                                                    scale: 1,
-                                                    x: 0,
-                                                    y: 0,
-                                                    z: 0
-                                                },
-                                                effectOutOptions: {
-                                                    opacity: .1,
-                                                    rotate: 0,
-                                                    rotateX: 0,
-                                                    rotateY: 0,
-                                                    scale: 1,
-                                                    x: 0,
-                                                    y: 0,
-                                                    z: 0
-                                                },
-                                                font: {
-                                                    font: "Safiro Medium",
-                                                    fontSize: 48,
-                                                    fontWeight: 400,
-                                                    letterSpacing: 0,
-                                                    lineHeight: 1.3,
-                                                    lineHeightPixels: 64,
-                                                    lineHeightType: !1,
-                                                    textAlign: "left"
-                                                },
-                                                height: "100%",
-                                                id: "nIDR3Degq",
-                                                layoutId: "nIDR3Degq",
-                                                perWord: !0,
-                                                staggerOptions: {
-                                                    amount: .1,
-                                                    from: "first"
-                                                },
-                                                styleItems: {
-                                                    overflow: "visible",
-                                                    transformHorizontal: "center",
-                                                    transformVertical: "center"
-                                                },
-                                                styles: {
-                                                    perspective: 400
-                                                },
-                                                text: "Building the future of DeFi",
-                                                transition: {
-                                                    damping: 60,
-                                                    delay: 0,
-                                                    extend: 0,
-                                                    mass: 1,
-                                                    stiffness: 500
-                                                },
-                                                width: "100%"
-                                            })
-                                        })
-                                    })
-                                }), r(_, {
-                                    children: r(J, {
-                                        className: "framer-k3fp12-container",
-                                        isAuthoredByUser: !0,
-                                        isModuleExternal: !0,
-                                        nodeId: "P3hGCU5hs",
-                                        scopeId: "xJq_mmwcR",
-                                        children: r(E, {
-                                            breakpoint: y,
-                                            overrides: {
-                                                exZBBm80x: {
-                                                    font: {
-                                                        font: "Safiro Medium",
-                                                        fontSize: 32,
-                                                        fontWeight: 400,
-                                                        letterSpacing: 0,
-                                                        lineHeight: 1.3,
-                                                        lineHeightPixels: 40,
-                                                        lineHeightType: !1,
-                                                        textAlign: "left"
-                                                    }
-                                                },
-                                                qhnGNP3iG: {
-                                                    font: {
-                                                        font: "Safiro Medium",
-                                                        fontSize: 24,
-                                                        fontWeight: 400,
-                                                        letterSpacing: 0,
-                                                        lineHeight: 1.3,
-                                                        lineHeightPixels: 32,
-                                                        lineHeightType: !1,
-                                                        textAlign: "left"
-                                                    }
-                                                }
-                                            },
-                                            children: r(hr, {
-                                                color: "var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185))",
-                                                direction: "in",
-                                                effectInOptions: {
-                                                    opacity: 0,
-                                                    rotate: 0,
-                                                    rotateX: 0,
-                                                    rotateY: 0,
-                                                    scale: 1,
-                                                    x: 0,
-                                                    y: 0,
-                                                    z: 0
-                                                },
-                                                effectOutOptions: {
-                                                    opacity: .1,
-                                                    rotate: 0,
-                                                    rotateX: 0,
-                                                    rotateY: 0,
-                                                    scale: 1,
-                                                    x: 0,
-                                                    y: 0,
-                                                    z: 0
-                                                },
-                                                font: {
-                                                    font: "Safiro Medium",
-                                                    fontSize: 48,
-                                                    fontWeight: 400,
-                                                    letterSpacing: 0,
-                                                    lineHeight: 1.3,
-                                                    lineHeightPixels: 64,
-                                                    lineHeightType: !1,
-                                                    textAlign: "left"
-                                                },
-                                                height: "100%",
-                                                id: "P3hGCU5hs",
-                                                layoutId: "P3hGCU5hs",
-                                                perWord: !0,
-                                                staggerOptions: {
-                                                    amount: .1,
-                                                    from: "first"
-                                                },
-                                                styleItems: {
-                                                    overflow: "visible",
-                                                    transformHorizontal: "center",
-                                                    transformVertical: "center"
-                                                },
-                                                styles: {
-                                                    perspective: 400
-                                                },
-                                                text: "and RWA tokenization together.",
-                                                transition: {
-                                                    damping: 60,
-                                                    delay: 0,
-                                                    extend: 0,
-                                                    mass: 1,
-                                                    stiffness: 500
-                                                },
-                                                width: "100%"
-                                            })
-                                        })
-                                    })
-                                })]
-                            })
-                        }), r(E, {
-                            breakpoint: y,
-                            overrides: {
-                                exZBBm80x: {
-                                    y: (c?.y || 0) + 0 + 7390 + 50 + 480
-                                },
-                                qhnGNP3iG: {
-                                    width: `calc(min(${c?.width || "100vw"}, 1600px) - 24px)`,
-                                    y: (c?.y || 0) + 0 + 8246 + 48 + 448
-                                }
-                            },
-                            children: r(_, {
-                                height: 210,
-                                width: `calc(min(${c?.width || "100vw"}, 1600px) - 48px)`,
-                                y: (c?.y || 0) + 0 + 7460 + 100 + 500,
-                                children: r(J, {
-                                    className: "framer-xu1wy-container",
-                                    nodeId: "ktlKhYdZp",
-                                    scopeId: "xJq_mmwcR",
-                                    children: r(E, {
-                                        breakpoint: y,
-                                        overrides: {
-                                            exZBBm80x: {
-                                                variant: "kovom4KpG"
-                                            },
-                                            qhnGNP3iG: {
-                                                variant: "kovom4KpG"
-                                            }
-                                        },
-                                        children: r(Sl, {
-                                            height: "100%",
-                                            id: "ktlKhYdZp",
-                                            layoutId: "ktlKhYdZp",
-                                            style: {
-                                                width: "100%"
-                                            },
-                                            variant: "EGyoYIXmy",
-                                            width: "100%"
-                                        })
-                                    })
-                                })
-                            })
-                        }), g("div", {
-                            className: "framer-1uz39c5",
-                            "data-framer-name": "About",
-                            children: [P() && r("div", {
-                                className: "framer-3ze2yc hidden-1yecgtf"
-                            }), g("div", {
-                                className: "framer-15qbr18",
-                                "data-framer-name": "About",
-                                children: [g("div", {
-                                    className: "framer-wyeesn",
-                                    children: [r(E, {
-                                        breakpoint: y,
-                                        overrides: {
-                                            exZBBm80x: {
-                                                children: r(w, {
-                                                    children: r("p", {
-                                                        style: {
-                                                            "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
-                                                            "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
-                                                            "--framer-font-size": "18px",
-                                                            "--framer-line-height": "140%"
-                                                        },
-                                                        children: "Our mission is to spearhead further growth and innovation in RWAs by seamlessly integrating the asset class with DeFi."
-                                                    })
-                                                })
-                                            },
-                                            qhnGNP3iG: {
-                                                children: r(w, {
-                                                    children: r("p", {
-                                                        style: {
-                                                            "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
-                                                            "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
-                                                            "--framer-font-size": "18px",
-                                                            "--framer-line-height": "160%"
-                                                        },
-                                                        children: "Our mission is to spearhead further growth and innovation in RWAs by seamlessly integrating the asset class with DeFi."
-                                                    })
-                                                })
-                                            }
-                                        },
-                                        children: r(N, {
-                                            __fromCanvasComponent: !0,
-                                            children: r(w, {
-                                                children: r("p", {
-                                                    style: {
-                                                        "--font-selector": "Q1VTVE9NO1NhZmlybyBNZWRpdW0=",
-                                                        "--framer-font-family": '"Safiro Medium", "Safiro Medium Placeholder", sans-serif',
-                                                        "--framer-font-size": "24px",
-                                                        "--framer-line-height": "160%"
-                                                    },
-                                                    children: "Our mission is to spearhead further growth and innovation in RWAs by seamlessly integrating the asset class with DeFi."
-                                                })
-                                            }),
-                                            className: "framer-mytqod",
-                                            fonts: ["CUSTOM;Safiro Medium"],
-                                            verticalAlignment: "top",
-                                            withExternalLayout: !0
-                                        })
-                                    }), r(E, {
-                                        breakpoint: y,
-                                        overrides: {
-                                            exZBBm80x: {
-                                                children: r(w, {
-                                                    children: r("p", {
-                                                        style: {
-                                                            "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                            "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                            "--framer-font-size": "12px",
-                                                            "--framer-line-height": "160%",
-                                                            "--framer-text-color": "var(--token-d9f63e05-d653-4352-b1ce-5ec0a1dc53fe, rgb(89, 89, 89))"
-                                                        },
-                                                        children: "As global regulatory frameworks become clearer, TradFi capital is poised to flow into RWAs, catalyzing unprecedented growth in the sector. Ozean is committed to leading this transformation and shaping the future of RWAs."
-                                                    })
-                                                })
-                                            },
-                                            qhnGNP3iG: {
-                                                children: r(w, {
-                                                    children: r("p", {
-                                                        style: {
-                                                            "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                            "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                            "--framer-font-size": "14px",
-                                                            "--framer-line-height": "160%",
-                                                            "--framer-text-color": "var(--token-d9f63e05-d653-4352-b1ce-5ec0a1dc53fe, rgb(89, 89, 89))"
-                                                        },
-                                                        children: "As global regulatory frameworks become clearer, TradFi capital is poised to flow into RWAs, catalyzing unprecedented growth in the sector. Ozean is committed to leading this transformation and shaping the future of RWAs."
-                                                    })
-                                                })
-                                            }
-                                        },
-                                        children: r(N, {
-                                            __fromCanvasComponent: !0,
-                                            children: r(w, {
-                                                children: r("p", {
-                                                    style: {
-                                                        "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                        "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                        "--framer-line-height": "160%",
-                                                        "--framer-text-color": "var(--token-d9f63e05-d653-4352-b1ce-5ec0a1dc53fe, rgb(89, 89, 89))"
-                                                    },
-                                                    children: "As global regulatory frameworks become clearer, TradFi capital is poised to flow into RWAs, catalyzing unprecedented growth in the sector. Ozean is committed to leading this transformation and shaping the future of RWAs."
-                                                })
-                                            }),
-                                            className: "framer-9tvnqg",
-                                            fonts: ["CUSTOM;Safiro Regular"],
-                                            verticalAlignment: "top",
-                                            withExternalLayout: !0
-                                        })
-                                    })]
-                                }), r(ql, {
-                                    links: [{
-                                        href: {
-                                            webPageId: "K5mGO7esX"
-                                        },
-                                        implicitPathVariables: void 0
-                                    }, {
-                                        href: {
-                                            webPageId: "K5mGO7esX"
-                                        },
-                                        implicitPathVariables: void 0
-                                    }, {
-                                        href: {
-                                            webPageId: "K5mGO7esX"
-                                        },
-                                        implicitPathVariables: void 0
-                                    }],
-                                    children: F => r(E, {
-                                        breakpoint: y,
-                                        overrides: {
-                                            exZBBm80x: {
-                                                y: (c?.y || 0) + 0 + 7390 + 50 + 770 + 0 + 0 + 286
-                                            },
-                                            qhnGNP3iG: {
-                                                y: (c?.y || 0) + 0 + 8246 + 48 + 706 + 0 + 0 + 304
-                                            }
-                                        },
-                                        children: r(_, {
-                                            height: 44,
-                                            y: (c?.y || 0) + 0 + 7460 + 100 + 810 + 0 + 0 + 384,
-                                            children: r(J, {
-                                                className: "framer-e7fb5y-container",
-                                                nodeId: "ij2iurUni",
-                                                scopeId: "xJq_mmwcR",
-                                                children: r(E, {
-                                                    breakpoint: y,
-                                                    overrides: {
-                                                        exZBBm80x: {
-                                                            xLFmzFpQN: F[1]
-                                                        },
-                                                        qhnGNP3iG: {
-                                                            xLFmzFpQN: F[2]
-                                                        }
-                                                    },
-                                                    children: r(qe, {
-                                                        C2KktBOrF: "var(--token-8c1544bc-af40-4f3f-8e80-d7141bdf714a, rgb(0, 64, 255))",
-                                                        f8o4yitr5: "rgb(255, 255, 255)",
-                                                        height: "100%",
-                                                        id: "ij2iurUni",
-                                                        JUgooHRE7: "var(--token-8c1544bc-af40-4f3f-8e80-d7141bdf714a, rgb(0, 64, 255))",
-                                                        layoutId: "ij2iurUni",
-                                                        NCB7NePzH: "Explore our Ecosystem",
-                                                        O76k0m1VG: "rgb(255, 255, 255)",
-                                                        style: {
-                                                            height: "100%"
-                                                        },
-                                                        variant: "aVQhnrdxV",
-                                                        width: "100%",
-                                                        WvVe0JxPX: "arrow-up-right",
-                                                        WwqjDfMe_: "var(--token-8c1544bc-af40-4f3f-8e80-d7141bdf714a, rgb(0, 64, 255))",
-                                                        xLFmzFpQN: F[0],
-                                                        YS1hVnYbg: !1
-                                                    })
-                                                })
-                                            })
-                                        })
-                                    })
-                                })]
-                            })]
-                        })]
-                    }), g("div", {
                         className: "framer-1rtmy63",
                         "data-framer-name": "NEWS",
                         children: [r("div", {
@@ -37418,7 +36978,7 @@ var f0 = Q(so),
                             "data-framer-name": "Divider"
                         })]
                     }), g("div", {
-                        className: "framer-jg3y69 noshow",
+                        className: "framer-jg3y69",
                         "data-framer-name": "FAQ",
                         children: [r("div", {
                             className: "framer-nkgnif",
@@ -37508,7 +37068,7 @@ var f0 = Q(so),
                                                 styles: {
                                                     perspective: 400
                                                 },
-                                                text: "Have questions?",
+                                                text: "Are you interested?",
                                                 transition: {
                                                     damping: 60,
                                                     delay: 0,
@@ -37604,7 +37164,7 @@ var f0 = Q(so),
                                                 styles: {
                                                     perspective: 400
                                                 },
-                                                text: "Find answers.",
+                                                text: "How to get started.",
                                                 transition: {
                                                     damping: 60,
                                                     delay: 0,
