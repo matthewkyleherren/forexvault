@@ -4513,7 +4513,7 @@ var Ra = {
                                                         height: "100%",
                                                         id: "ZGjV_SNEr",
                                                         j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "https://x.com/ClearpoolFin",
+                                                        jQJZIhVdX: "https://x.com/hellovaultfxai",
                                                         k8auuk0mY: "rgb(0, 0, 0)",
                                                         layoutId: "ZGjV_SNEr",
                                                         tJMuU5vK4: !0,
@@ -4528,108 +4528,9 @@ var Ra = {
                                                         }, m, d)
                                                     })
                                                 })
-                                            }), e(k, {
-                                                height: 22,
-                                                y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 0 + 0 + 41.6 + 0 + 38,
-                                                ...S({
-                                                    w5pDPqY8h: {
-                                                        y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 38
-                                                    }
-                                                }, m, d),
-                                                children: e(B, {
-                                                    className: "framer-ey35rw-container",
-                                                    layoutDependency: c,
-                                                    layoutId: "pSbQ3yOtq-container",
-                                                    nodeId: "pSbQ3yOtq",
-                                                    rendersWithMotion: !0,
-                                                    scopeId: "qcoVW79gd",
-                                                    children: e(N, {
-                                                        height: "100%",
-                                                        id: "pSbQ3yOtq",
-                                                        j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "https://t.me/clearpoolofficial",
-                                                        k8auuk0mY: "rgb(0, 0, 0)",
-                                                        layoutId: "pSbQ3yOtq",
-                                                        tJMuU5vK4: !0,
-                                                        variant: "QztZReDwv",
-                                                        VKzWGEV7h: !0,
-                                                        width: "100%",
-                                                        yNXUemuGw: "Telegram",
-                                                        ...S({
-                                                            w5pDPqY8h: {
-                                                                variant: "MRoHUgPaI"
-                                                            }
-                                                        }, m, d)
-                                                    })
-                                                })
-                                            }), e(k, {
-                                                height: 22,
-                                                y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 0 + 0 + 41.6 + 0 + 76,
-                                                ...S({
-                                                    w5pDPqY8h: {
-                                                        y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 76
-                                                    }
-                                                }, m, d),
-                                                children: e(B, {
-                                                    className: "framer-d6gxme-container",
-                                                    layoutDependency: c,
-                                                    layoutId: "shz7WnfGG-container",
-                                                    nodeId: "shz7WnfGG",
-                                                    rendersWithMotion: !0,
-                                                    scopeId: "qcoVW79gd",
-                                                    children: e(N, {
-                                                        height: "100%",
-                                                        id: "shz7WnfGG",
-                                                        j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "https://discord.gg/YYzxscA4nu",
-                                                        k8auuk0mY: "rgb(0, 0, 0)",
-                                                        layoutId: "shz7WnfGG",
-                                                        tJMuU5vK4: !0,
-                                                        variant: "QztZReDwv",
-                                                        VKzWGEV7h: !0,
-                                                        width: "100%",
-                                                        yNXUemuGw: "Discord",
-                                                        ...S({
-                                                            w5pDPqY8h: {
-                                                                variant: "MRoHUgPaI"
-                                                            }
-                                                        }, m, d)
-                                                    })
-                                                })
-                                            }), e(k, {
-                                                height: 22,
-                                                y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 0 + 0 + 41.6 + 0 + 114,
-                                                ...S({
-                                                    w5pDPqY8h: {
-                                                        y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 114
-                                                    }
-                                                }, m, d),
-                                                children: e(B, {
-                                                    className: "framer-we3696-container",
-                                                    layoutDependency: c,
-                                                    layoutId: "hRBPRxFt9-container",
-                                                    nodeId: "hRBPRxFt9",
-                                                    rendersWithMotion: !0,
-                                                    scopeId: "qcoVW79gd",
-                                                    children: e(N, {
-                                                        height: "100%",
-                                                        id: "hRBPRxFt9",
-                                                        j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "https://clearpool.medium.com",
-                                                        k8auuk0mY: "rgb(0, 0, 0)",
-                                                        layoutId: "hRBPRxFt9",
-                                                        tJMuU5vK4: !0,
-                                                        variant: "QztZReDwv",
-                                                        VKzWGEV7h: !0,
-                                                        width: "100%",
-                                                        yNXUemuGw: "Blog",
-                                                        ...S({
-                                                            w5pDPqY8h: {
-                                                                variant: "MRoHUgPaI"
-                                                            }
-                                                        }, m, d)
-                                                    })
-                                                })
+                                            
+                                            
+                                            
                                             }), e(k, {
                                                 height: 22,
                                                 y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 0 + 0 + 41.6 + 0 + 152,
@@ -4649,7 +4550,7 @@ var Ra = {
                                                         height: "100%",
                                                         id: "VS__DyExK",
                                                         j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "https://www.linkedin.com/company/clearpool/",
+                                                        jQJZIhVdX: "https://www.linkedin.com/company/vaultfxai/",
                                                         k8auuk0mY: "rgb(0, 0, 0)",
                                                         layoutId: "VS__DyExK",
                                                         tJMuU5vK4: !0,
@@ -4683,7 +4584,7 @@ var Ra = {
                                                         height: "100%",
                                                         id: "HqEMckn6V",
                                                         j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "mailto:nfo@ozean.finance",
+                                                        jQJZIhVdX: "mailto:info@vaultfx.ai",
                                                         k8auuk0mY: "rgb(0, 0, 0)",
                                                         layoutId: "HqEMckn6V",
                                                         tJMuU5vK4: !0,
@@ -4699,354 +4600,7 @@ var Ra = {
                                                     })
                                                 })
                                             })]
-                                        })]
-                                    }), R(s.div, {
-                                        className: "framer-1svfvwm",
-                                        "data-framer-name": "Home",
-                                        layoutDependency: c,
-                                        layoutId: "YPP_8cTS5",
-                                        children: [e(J, {
-                                            __fromCanvasComponent: !0,
-                                            children: e(I, {
-                                                children: e(s.p, {
-                                                    style: {
-                                                        "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                        "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                        "--framer-line-height": "160%",
-                                                        "--framer-text-color": "var(--extracted-r6o4lv, var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185)))",
-                                                        "--framer-text-transform": "capitalize"
-                                                    },
-                                                    children: "Home"
-                                                })
-                                            }),
-                                            className: "framer-fvc6tu",
-                                            fonts: ["CUSTOM;Safiro Regular"],
-                                            layoutDependency: c,
-                                            layoutId: "SI0GkqbzQ",
-                                            style: {
-                                                "--extracted-r6o4lv": "var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185))"
-                                            },
-                                            verticalAlignment: "top",
-                                            withExternalLayout: !0,
-                                            ...S({
-                                                w5pDPqY8h: {
-                                                    children: e(I, {
-                                                        children: e(s.p, {
-                                                            style: {
-                                                                "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                                "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                                "--framer-font-size": "14px",
-                                                                "--framer-line-height": "160%",
-                                                                "--framer-text-color": "var(--extracted-r6o4lv, var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185)))",
-                                                                "--framer-text-transform": "capitalize"
-                                                            },
-                                                            children: "Home"
-                                                        })
-                                                    })
-                                                }
-                                            }, m, d)
-                                        }), R(s.div, {
-                                            className: "framer-ekn6w4",
-                                            layoutDependency: c,
-                                            layoutId: "o5W4uMpyJ",
-                                            children: [e(ge, {
-                                                links: [{
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }],
-                                                children: P => e(k, {
-                                                    height: 22,
-                                                    y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 301.6 + 0 + 41.6 + 0 + 0,
-                                                    ...S({
-                                                        w5pDPqY8h: {
-                                                            y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 0
-                                                        }
-                                                    }, m, d),
-                                                    children: e(B, {
-                                                        className: "framer-d4xnni-container",
-                                                        layoutDependency: c,
-                                                        layoutId: "Ei4Ekwh3s-container",
-                                                        nodeId: "Ei4Ekwh3s",
-                                                        rendersWithMotion: !0,
-                                                        scopeId: "qcoVW79gd",
-                                                        children: e(N, {
-                                                            height: "100%",
-                                                            id: "Ei4Ekwh3s",
-                                                            j4rGAQlsA: "rgb(0, 0, 0)",
-                                                            jQJZIhVdX: P[0],
-                                                            k8auuk0mY: "rgb(0, 0, 0)",
-                                                            layoutId: "Ei4Ekwh3s",
-                                                            tJMuU5vK4: !0,
-                                                            variant: "QztZReDwv",
-                                                            VKzWGEV7h: !1,
-                                                            width: "100%",
-                                                            yNXUemuGw: "Stablecoins",
-                                                            ...S({
-                                                                ENBOF9sr9: {
-                                                                    jQJZIhVdX: P[1]
-                                                                },
-                                                                w5pDPqY8h: {
-                                                                    jQJZIhVdX: P[2],
-                                                                    variant: "MRoHUgPaI"
-                                                                }
-                                                            }, m, d)
-                                                        })
-                                                    })
-                                                })
-                                            }), e(ge, {
-                                                links: [{
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }],
-                                                children: P => e(k, {
-                                                    height: 22,
-                                                    y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 301.6 + 0 + 41.6 + 0 + 38,
-                                                    ...S({
-                                                        w5pDPqY8h: {
-                                                            y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 38
-                                                        }
-                                                    }, m, d),
-                                                    children: e(B, {
-                                                        className: "framer-wud0uh-container",
-                                                        layoutDependency: c,
-                                                        layoutId: "mTRpjnJaq-container",
-                                                        nodeId: "mTRpjnJaq",
-                                                        rendersWithMotion: !0,
-                                                        scopeId: "qcoVW79gd",
-                                                        children: e(N, {
-                                                            height: "100%",
-                                                            id: "mTRpjnJaq",
-                                                            j4rGAQlsA: "rgb(0, 0, 0)",
-                                                            jQJZIhVdX: P[0],
-                                                            k8auuk0mY: "rgb(0, 0, 0)",
-                                                            layoutId: "mTRpjnJaq",
-                                                            tJMuU5vK4: !0,
-                                                            variant: "QztZReDwv",
-                                                            VKzWGEV7h: !1,
-                                                            width: "100%",
-                                                            yNXUemuGw: "Compliance",
-                                                            ...S({
-                                                                ENBOF9sr9: {
-                                                                    jQJZIhVdX: P[1]
-                                                                },
-                                                                w5pDPqY8h: {
-                                                                    jQJZIhVdX: P[2],
-                                                                    variant: "MRoHUgPaI"
-                                                                }
-                                                            }, m, d)
-                                                        })
-                                                    })
-                                                })
-                                            }), e(ge, {
-                                                links: [{
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":k_Yqzzj2J",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }],
-                                                children: P => e(k, {
-                                                    height: 22,
-                                                    y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 301.6 + 0 + 41.6 + 0 + 76,
-                                                    ...S({
-                                                        w5pDPqY8h: {
-                                                            y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 76
-                                                        }
-                                                    }, m, d),
-                                                    children: e(B, {
-                                                        className: "framer-vmjxd4-container",
-                                                        layoutDependency: c,
-                                                        layoutId: "KS0P80WZM-container",
-                                                        nodeId: "KS0P80WZM",
-                                                        rendersWithMotion: !0,
-                                                        scopeId: "qcoVW79gd",
-                                                        children: e(N, {
-                                                            height: "100%",
-                                                            id: "KS0P80WZM",
-                                                            j4rGAQlsA: "rgb(0, 0, 0)",
-                                                            jQJZIhVdX: P[0],
-                                                            k8auuk0mY: "rgb(0, 0, 0)",
-                                                            layoutId: "KS0P80WZM",
-                                                            tJMuU5vK4: !0,
-                                                            variant: "QztZReDwv",
-                                                            VKzWGEV7h: !1,
-                                                            width: "100%",
-                                                            yNXUemuGw: "Wallet",
-                                                            ...S({
-                                                                ENBOF9sr9: {
-                                                                    jQJZIhVdX: P[1]
-                                                                },
-                                                                w5pDPqY8h: {
-                                                                    jQJZIhVdX: P[2],
-                                                                    variant: "MRoHUgPaI"
-                                                                }
-                                                            }, m, d)
-                                                        })
-                                                    })
-                                                })
-                                            }), e(ge, {
-                                                links: [{
-                                                    href: {
-                                                        hash: ":OiUQ3vq90",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":OiUQ3vq90",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":OiUQ3vq90",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }],
-                                                children: P => e(k, {
-                                                    height: 22,
-                                                    y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 301.6 + 0 + 41.6 + 0 + 114,
-                                                    ...S({
-                                                        w5pDPqY8h: {
-                                                            y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 114
-                                                        }
-                                                    }, m, d),
-                                                    children: e(B, {
-                                                        className: "framer-626yew-container",
-                                                        layoutDependency: c,
-                                                        layoutId: "uYkQA2pmY-container",
-                                                        nodeId: "uYkQA2pmY",
-                                                        rendersWithMotion: !0,
-                                                        scopeId: "qcoVW79gd",
-                                                        children: e(N, {
-                                                            height: "100%",
-                                                            id: "uYkQA2pmY",
-                                                            j4rGAQlsA: "rgb(0, 0, 0)",
-                                                            jQJZIhVdX: P[0],
-                                                            k8auuk0mY: "rgb(0, 0, 0)",
-                                                            layoutId: "uYkQA2pmY",
-                                                            tJMuU5vK4: !0,
-                                                            variant: "QztZReDwv",
-                                                            VKzWGEV7h: !1,
-                                                            width: "100%",
-                                                            yNXUemuGw: "About",
-                                                            ...S({
-                                                                ENBOF9sr9: {
-                                                                    jQJZIhVdX: P[1]
-                                                                },
-                                                                w5pDPqY8h: {
-                                                                    jQJZIhVdX: P[2],
-                                                                    variant: "MRoHUgPaI"
-                                                                }
-                                                            }, m, d)
-                                                        })
-                                                    })
-                                                })
-                                            }), e(ge, {
-                                                links: [{
-                                                    href: {
-                                                        hash: ":tf6xIydVJ",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":tf6xIydVJ",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":tf6xIydVJ",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }],
-                                                children: P => e(k, {
-                                                    height: 22,
-                                                    y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 301.6 + 0 + 41.6 + 0 + 152,
-                                                    ...S({
-                                                        w5pDPqY8h: {
-                                                            y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 0 + 0 + 0 + 38.400000000000006 + 0 + 152
-                                                        }
-                                                    }, m, d),
-                                                    children: e(B, {
-                                                        className: "framer-vpt6jj-container",
-                                                        layoutDependency: c,
-                                                        layoutId: "nnlJm4KIT-container",
-                                                        nodeId: "nnlJm4KIT",
-                                                        rendersWithMotion: !0,
-                                                        scopeId: "qcoVW79gd",
-                                                        children: e(N, {
-                                                            height: "100%",
-                                                            id: "nnlJm4KIT",
-                                                            j4rGAQlsA: "rgb(0, 0, 0)",
-                                                            jQJZIhVdX: P[0],
-                                                            k8auuk0mY: "rgb(0, 0, 0)",
-                                                            layoutId: "nnlJm4KIT",
-                                                            tJMuU5vK4: !0,
-                                                            variant: "QztZReDwv",
-                                                            VKzWGEV7h: !1,
-                                                            width: "100%",
-                                                            yNXUemuGw: "CPOOL",
-                                                            ...S({
-                                                                ENBOF9sr9: {
-                                                                    jQJZIhVdX: P[1]
-                                                                },
-                                                                w5pDPqY8h: {
-                                                                    jQJZIhVdX: P[2],
-                                                                    variant: "MRoHUgPaI"
-                                                                }
-                                                            }, m, d)
-                                                        })
-                                                    })
-                                                })
-                                            })]
-                                        })]
-                                    })]
+                                        })]                                 
                                 }), R(s.div, {
                                     className: "framer-e2gbkf",
                                     layoutDependency: c,
@@ -5293,152 +4847,7 @@ var Ra = {
                                                     })
                                                 })
                                             })]
-                                        })]
-                                    }), R(s.div, {
-                                        className: "framer-1wdkvrj",
-                                        "data-framer-name": "Wave",
-                                        layoutDependency: c,
-                                        layoutId: "SAHa91d1V",
-                                        children: [e(J, {
-                                            __fromCanvasComponent: !0,
-                                            children: e(I, {
-                                                children: e(s.p, {
-                                                    style: {
-                                                        "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                        "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                        "--framer-line-height": "160%",
-                                                        "--framer-text-color": "var(--extracted-r6o4lv, var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185)))",
-                                                        "--framer-text-transform": "capitalize"
-                                                    },
-                                                    children: "Accelerator"
-                                                })
-                                            }),
-                                            className: "framer-1p0b9xo",
-                                            fonts: ["CUSTOM;Safiro Regular"],
-                                            layoutDependency: c,
-                                            layoutId: "btTW93HWC",
-                                            style: {
-                                                "--extracted-r6o4lv": "var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185))"
-                                            },
-                                            verticalAlignment: "top",
-                                            withExternalLayout: !0,
-                                            ...S({
-                                                w5pDPqY8h: {
-                                                    children: e(I, {
-                                                        children: e(s.p, {
-                                                            style: {
-                                                                "--font-selector": "Q1VTVE9NO1NhZmlybyBSZWd1bGFy",
-                                                                "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
-                                                                "--framer-font-size": "14px",
-                                                                "--framer-line-height": "160%",
-                                                                "--framer-text-color": "var(--extracted-r6o4lv, var(--token-3fe97406-cb99-4931-b5d4-68aefde1ab47, rgb(176, 181, 185)))",
-                                                                "--framer-text-transform": "capitalize"
-                                                            },
-                                                            children: "Accelerator"
-                                                        })
-                                                    })
-                                                }
-                                            }, m, d)
-                                        }), R(s.div, {
-                                            className: "framer-f3qht1",
-                                            layoutDependency: c,
-                                            layoutId: "bXA0tFb36",
-                                            children: [e(ge, {
-                                                links: [{
-                                                    href: {
-                                                        hash: ":tf6xIydVJ",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":tf6xIydVJ",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }, {
-                                                    href: {
-                                                        hash: ":tf6xIydVJ",
-                                                        webPageId: "xJq_mmwcR"
-                                                    },
-                                                    implicitPathVariables: void 0
-                                                }],
-                                                children: P => e(k, {
-                                                    height: 22,
-                                                    y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 263.6 + 0 + 41.6 + 0 + 0,
-                                                    ...S({
-                                                        w5pDPqY8h: {
-                                                            y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 298.4 + 0 + 0 + 38.400000000000006 + 0 + 0
-                                                        }
-                                                    }, m, d),
-                                                    children: e(B, {
-                                                        className: "framer-va857v-container",
-                                                        layoutDependency: c,
-                                                        layoutId: "YQnZX36MH-container",
-                                                        nodeId: "YQnZX36MH",
-                                                        rendersWithMotion: !0,
-                                                        scopeId: "qcoVW79gd",
-                                                        children: e(N, {
-                                                            height: "100%",
-                                                            id: "YQnZX36MH",
-                                                            j4rGAQlsA: "rgb(0, 0, 0)",
-                                                            jQJZIhVdX: P[0],
-                                                            k8auuk0mY: "rgb(0, 0, 0)",
-                                                            layoutId: "YQnZX36MH",
-                                                            tJMuU5vK4: !0,
-                                                            variant: "QztZReDwv",
-                                                            VKzWGEV7h: !1,
-                                                            width: "100%",
-                                                            yNXUemuGw: "WaveMaker",
-                                                            ...S({
-                                                                ENBOF9sr9: {
-                                                                    jQJZIhVdX: P[1]
-                                                                },
-                                                                w5pDPqY8h: {
-                                                                    jQJZIhVdX: P[2],
-                                                                    variant: "MRoHUgPaI"
-                                                                }
-                                                            }, m, d)
-                                                        })
-                                                    })
-                                                })
-                                            }), e(k, {
-                                                height: 22,
-                                                y: (a?.y || 0) + 0 + (((a?.height || 774.5) - 0 - 775.2) / 2 + 64 + 0) + 100 + 0 + 0 + 263.6 + 0 + 41.6 + 0 + 38,
-                                                ...S({
-                                                    w5pDPqY8h: {
-                                                        y: (a?.y || 0) + 0 + (((a?.height || 1111.5) - 12 - 1234.8) / 2 + 48 + 0) + 0 + 560 + 48 + 298.4 + 0 + 0 + 38.400000000000006 + 0 + 38
-                                                    }
-                                                }, m, d),
-                                                children: e(B, {
-                                                    className: "framer-zasato-container",
-                                                    layoutDependency: c,
-                                                    layoutId: "uZAR_6sMN-container",
-                                                    nodeId: "uZAR_6sMN",
-                                                    rendersWithMotion: !0,
-                                                    scopeId: "qcoVW79gd",
-                                                    children: e(N, {
-                                                        height: "100%",
-                                                        id: "uZAR_6sMN",
-                                                        j4rGAQlsA: "rgb(0, 0, 0)",
-                                                        jQJZIhVdX: "mailto:wavemaker@ozean.finance",
-                                                        k8auuk0mY: "rgb(0, 0, 0)",
-                                                        layoutId: "uZAR_6sMN",
-                                                        tJMuU5vK4: !0,
-                                                        variant: "QztZReDwv",
-                                                        VKzWGEV7h: !0,
-                                                        width: "100%",
-                                                        yNXUemuGw: "Apply",
-                                                        ...S({
-                                                            w5pDPqY8h: {
-                                                                variant: "MRoHUgPaI"
-                                                            }
-                                                        }, m, d)
-                                                    })
-                                                })
-                                            })]
-                                        })]
-                                    })]
+                                        })]                            
                                 })]
                             })]
                         }), R(s.div, {
@@ -5569,7 +4978,7 @@ var Ra = {
                                                         "--framer-line-height": "1.6em",
                                                         "--framer-text-transform": "capitalize"
                                                     },
-                                                    children: "Ozean."
+                                                    children: "VaultFX."
                                                 })
                                             })
                                         }
@@ -5592,7 +5001,7 @@ var Ra = {
                                                 "--framer-text-transform": "capitalize"
                                             },
                                             children: e(ue, {
-                                                href: "https://docs.clearpool.finance/clearpool/how-it-works/dynamic/for-borrowers/onboarding/mla/platform-terms",
+                                                href: "/legal/privacy",
                                                 motionChild: !0,
                                                 nodeId: "mCVGQE5xq",
                                                 openInNewTab: !0,
@@ -5624,7 +5033,7 @@ var Ra = {
                                                         "--framer-text-transform": "capitalize"
                                                     },
                                                     children: e(ue, {
-                                                        href: "https://docs.clearpool.finance/clearpool/how-it-works/dynamic/for-borrowers/onboarding/mla/platform-terms",
+                                                        href: "/legal/privacy",
                                                         motionChild: !0,
                                                         nodeId: "mCVGQE5xq",
                                                         openInNewTab: !0,
@@ -5652,7 +5061,7 @@ var Ra = {
                                                 "--framer-text-transform": "capitalize"
                                             },
                                             children: e(ue, {
-                                                href: "https://docs.clearpool.finance/clearpool/how-it-works/dynamic/for-borrowers/onboarding/mla/platform-terms",
+                                                href: "/legal/terms",
                                                 motionChild: !0,
                                                 nodeId: "Lc0avJdEV",
                                                 openInNewTab: !0,
@@ -5684,7 +5093,7 @@ var Ra = {
                                                         "--framer-text-transform": "capitalize"
                                                     },
                                                     children: e(ue, {
-                                                        href: "https://docs.clearpool.finance/clearpool/how-it-works/dynamic/for-borrowers/onboarding/mla/platform-terms",
+                                                        href: "/legal/terms",
                                                         motionChild: !0,
                                                         nodeId: "Lc0avJdEV",
                                                         openInNewTab: !0,
@@ -6304,9 +5713,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Ozean, launched by Clearpool, is the first Real-World Asset (RWA) yield chain built on and supported by Optimism. It revolutionizes DeFi by seamlessly integrating RWAs in a compliant and user-friendly manner, enabling users to earn native yield on-chain automatically.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_01",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "What is Ozean?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_02",
                                     width: "100%",
                                     ...z({
                                         F0zxYt4hJ: {
@@ -6341,9 +5750,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "USDX is Ozean's native stablecoin and gas token. Issued by Hex Trust, it's maintained at a 1:1 ratio against the U.S. dollar or equivalently valued assets. Reserves primarily consist of 1-3 month T-Bills and are securely held by tier-1 financial institutions.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_02",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "What is USDX?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_02",
                                     width: "100%",
                                     ...z({
                                         F0zxYt4hJ: {
@@ -6378,9 +5787,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "ozUSD is a yield-bearing stablecoin that allows users to earn passive income. When USDX is converted to ozUSD, it automatically rebases in your wallet, providing the risk-free rate back to holders.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_03",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "How does ozUSD work?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_03",
                                     width: "100%",
                                     ...z({
                                         F0zxYt4hJ: {
@@ -6415,9 +5824,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "About is a next-generation liquidity layer built specifically for the Ozean chain. It comprises various assets, including RWAs, tokenized treasuries, the most liquid crypto assets, and yield-bearing tokens. About facilitates key functionalities such as swaps, lending, and collateralization on Ozean.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_04",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "What is About (O2)?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_04",
                                     width: "100%",
                                     ...z({
                                         F0zxYt4hJ: {
@@ -6452,9 +5861,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "WaveMaker is Ozean's accelerator for RWAs. It helps issuers tokenize assets on the Ozean blockchain, providing guidance on compliance, market strategy, and investor connections.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_05",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "What is WaveMaker?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_05",
                                     width: "100%",
                                     ...z({
                                         F0zxYt4hJ: {
@@ -6498,9 +5907,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Ozean enables RWAs such as real estate, financial products, or even receivables to be tokenized and brought on-chain, making them accessible to investors and unlocking new liquidity opportunities.",
+                                    T8rQFvSBR: "FAQ_QUESTION_HERE_06",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "How can I use RWAs on Ozean?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_06",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6541,9 +5950,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Ozean works with trusted custodians, such as Hex Trust, to securely store tokenized assets and ensure regulatory compliance and Transparency, Honesty for issuers and investors.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_07",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "How does Ozean handle security and asset custody?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_07",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6584,9 +5993,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "$CPOOL is Ozean\u2019s governance token. It allows users to participate in protocol governance, including staking, voting on key decisions, and making upgrades to the network.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_08",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "What is the role of the $CPOOL token?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_08",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6627,9 +6036,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Yes, Ozean is designed to be user-friendly for newcomers to DeFi and RWAs. The platform offers a custodial wallet that simplifies the DeFi experience, making it easier for new users to manage crypto, RWA yields, and transactions in one secure place.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_09",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "Can I use Ozean if I'm new to DeFi and RWAs?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_09",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6670,9 +6079,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Ozean takes care of all transaction fees, which are subsidized by the network and dApps. Users can enjoy gas-free transactions, allowing them to focus on growing their portfolio without worrying about fees.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_10",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "How does Ozean handle gas fees for transactions?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_10",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6713,9 +6122,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Ozean works with trusted custodians, such as Hex Trust, to securely store tokenized assets. This partnership ensures regulatory compliance and Transparency, Honesty for both issuers and investors.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_11",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "How does Ozean ensure the security of tokenized assets?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_11",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6756,9 +6165,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "Ozean's compliance layer is an opt-in feature that allows users to complete KYC once and receive a Decentralized ID (DID) token linked to their blockchain address. This system enables users to participate across multiple protocols on Ozean without repeating KYC, maintaining privacy where necessary while allowing protocols to customize their compliance requirements.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_12",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "How does Ozean's compliance layer work, and how does it benefit users?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_12",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
@@ -6799,9 +6208,9 @@ var $a = {
                                     style: {
                                         width: "100%"
                                     },
-                                    T8rQFvSBR: "About (O2) is Ozean's innovative liquidity layer that comprises various assets, including RWAs, tokenized treasuries, liquid cryptos, and yield-bearing tokens. It enhances liquidity on Ozean by enabling key functionalities such as swaps, lending, and collateralization, while also providing a unified pool of tokenized assets that reduces the need for expensive incentives.",
+                                    T8rQFvSBR: "FAQ_ANSWER_HERE_13",
                                     variant: "lSRTaC8VY",
-                                    W88zB8mIG: "What is About (O2) and how does it enhance liquidity on Ozean?",
+                                    W88zB8mIG: "FAQ_QUESTION_HERE_13",
                                     width: "100%",
                                     ...z({
                                         iLKIVhKfH: {
