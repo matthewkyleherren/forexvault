@@ -7141,7 +7141,7 @@ while loading this video:
     } else {
       let a = "https://storage.googleapis.com/unicornstudio-production";
       i || (e != null && e.includes("production=true"))
-        ? ((a = "https://forexvault.wrk.ltd"), (e = `v=${Date.now()}`))
+        ? ((a = "https://vaultfx.wrk.ltd"), (e = `v=${Date.now()}`))
         : (e != null && e.includes("update=")) || (e = `v=${Date.now()}`),
         (r = `${a}/assets/3d/json`);
     }
