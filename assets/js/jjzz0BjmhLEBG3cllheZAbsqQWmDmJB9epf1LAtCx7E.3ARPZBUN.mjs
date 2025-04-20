@@ -19949,6 +19949,7 @@ var mu = {
                                                 "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
                                                 "--framer-letter-spacing": "0px",
                                                 "--framer-line-height": "22px",
+                                                "display": "none",
                                                 "--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
                                             },
                                             children: "Learn more about ClearPool"
@@ -19973,6 +19974,7 @@ var mu = {
                                                         "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
                                                         "--framer-letter-spacing": "0px",
                                                         "--framer-line-height": "22px",
+                                                        "display": "none",
                                                         "--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
                                                     },
                                                     children: "Learn more about Clearpool"
@@ -19987,6 +19989,7 @@ var mu = {
                                                         "--framer-font-family": '"Safiro Regular", "Safiro Regular Placeholder", sans-serif',
                                                         "--framer-letter-spacing": "0px",
                                                         "--framer-line-height": "22px",
+                                                        "display": "none",
                                                         "--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
                                                     },
                                                     children: "Learn more about Hex Trust"
